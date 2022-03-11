@@ -149,7 +149,7 @@
 /* Breadcrumb Area Start */
 .breadcrumb-area {
   padding: 215px 0px 115px;
-  background: url(../images/bc-bg-2.jpg);
+  background: url("images/bc-bg-2.jpg");
   background-repeat: no-repeat !important;
   background-position: center !important;
   background-size: cover !important; }
